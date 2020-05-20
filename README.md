@@ -1,2 +1,4 @@
-# githubtutorial
- primeiro repositorio do curso de git e github
+# github tutorial
+
+primeiro repositorio do curso de git e github
+Repositório criado com github desktop
